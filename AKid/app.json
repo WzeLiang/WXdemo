@@ -1,0 +1,49 @@
+{
+  "pages":[
+    "pages/education/home/home",
+    "pages/enroll/register/register",
+    "pages/enroll/login/login",
+    "pages/enroll/forget/forget",
+    "pages/education/attendance/attendance",
+    "pages/education/curriculum1/curriculum1",
+    "pages/education/homework/homework",
+    "pages/education/teacher/teacher",
+    "pages/education/leave/leave",
+    "pages/education/live/live",
+    "pages/education/glorylist/glorylist",
+    "pages/education/activitylist/activitylist",
+    "pages/education/classmsg/classsg",
+    "pages/life/home/home",
+    "pages/personal/home/home"
+  
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "selectedColor": "#1296db",
+    "list": [
+      {
+        "pagePath": "pages/education/home/home",
+        "text": "教务",
+        "iconPath": "",
+        "selectedIconPath": ""
+      },
+      {
+        "pagePath": "pages/life/home/home",
+        "text": "生活",
+        "iconPath": "",
+        "selectedIconPath": ""
+      },
+      {
+        "pagePath": "pages/personal/home/home",
+        "text": "个人",
+        "iconPath": "",
+        "selectedIconPath": ""
+      }
+    ]
+  }
+}
