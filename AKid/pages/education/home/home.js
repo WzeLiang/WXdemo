@@ -7,7 +7,20 @@ Page({
   data: {
   
   },
-
+  // openToast: function () {
+  //   wx.showToast({
+  //     title: '已完成',
+  //     icon: 'success',
+  //     duration: 3000
+  //   });
+  // },
+  // openLoading: function () {
+  //   wx.showToast({
+  //     title: '数据加载中',
+  //     icon: 'loading',
+  //     duration: 3000
+  //   });
+  // },
   /**
    * 生命周期函数--监听页面加载
    */
