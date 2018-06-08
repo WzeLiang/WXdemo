@@ -18,9 +18,18 @@
     "pages/education/livelist/liveinfo/liveinfo",
     "pages/education/glorylist/glorylist",
     "pages/education/activitylist/activitylist",
-    "pages/education/classmsg/classsg",
-    "pages/life/home/home",
-    "pages/personal/home/home"
+    "pages/education/activitylist/joinactivity/joinactivity",
+    "pages/education/activitylist/memberlist/memberlist",
+    "pages/education/classmsg/classmsg",
+    "pages/education/classmsg/addclassmsg/addclassmsg",
+    "pages/life/life",
+    "pages/life/schoolinfo/schoolinfo",
+    "pages/life/recipes/recipes",
+    "pages/life/foodsplace/foodsplace",
+    "pages/life/news/news",
+    "pages/life/article/article",
+    "pages/life/article/articleinfo/articleinfo",
+    "pages/personal/personal"
   
   ],
   "window":{
@@ -39,13 +48,13 @@
         "selectedIconPath": ""
       },
       {
-        "pagePath": "pages/life/home/home",
+        "pagePath": "pages/life/life",
         "text": "生活",
         "iconPath": "",
         "selectedIconPath": ""
       },
       {
-        "pagePath": "pages/personal/home/home",
+        "pagePath": "pages/personal/personal",
         "text": "个人",
         "iconPath": "",
         "selectedIconPath": ""
